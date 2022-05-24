@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning: **Python, Django, Algorithms**
 
 - 📫 How to reach me:
+	- <a href="https://mendozzzzz.github.io/">Page in progress =)</a>
 	- e-mail **mendax.ds@gmail.com**
 	- TG @mendozzzzz
 
