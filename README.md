@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis!</h1>
 
-- 🌱 I’m currently learning: **Python, Django, Algorithms, DB, nets...**
-
 - 📫 How to reach me:
 	- <a href="https://mendozzzzz.github.io/">Page in progress =)</a>
 	- e-mail **mendax.ds@gmail.com**
